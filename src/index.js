@@ -7,4 +7,4 @@ server.get('/teste', (req, res) => {
 
 server.listen(3000,() =>{
     console.log("API ONLINE")
-});
+}); 
