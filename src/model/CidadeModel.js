@@ -11,7 +11,7 @@ const Cidade = sequelize.define('Cidade', {
         allowNull: false
     }
 }, {
-    taleName: 'Cidade'
+    tableName: 'Cidade'
 });
 
 module.exports = Cidade;
